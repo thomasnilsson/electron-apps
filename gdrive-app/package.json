@@ -1,0 +1,24 @@
+{
+  "name": "gdrive",
+  "version": "1.0.0",
+  "description": "Google Calendar wrapper",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Thomas Nilsson",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^15.1.1"
+  },
+  "build": {
+    "appId": "io.thomasnilsson.app"
+  }
+}
